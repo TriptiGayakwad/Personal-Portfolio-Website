@@ -1,6 +1,4 @@
 # Personal-Portfolio-Website
-https://github.com/TriptiGayakwad
-# Personal Portfolio
 
 My personal website showcasing my work as a frontend developer.
 
