@@ -35,7 +35,7 @@ python -m http.server 8000
 ```
 ## Live Demo
 
-Visit the live website: [https://triptgayakwad.github.io/-Personal-Portfolio/](https://triptgayakwad.github.io/-Personal-Portfolio/)
+Visit the live website: [https://triptigayakwad.github.io/Personal-Portfolio-Website/](https://triptigayakwad.github.io/Personal-Portfolio-Website/)
 ## Contact
 
 Feel free to reach out if you want to collaborate or just chat about web development.
